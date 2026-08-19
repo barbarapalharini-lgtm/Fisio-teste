@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = 'https://sistema-fisio-api.onrender.com';
 
 const INITIAL_AVALIACAO_PAYLOAD = {
   data_avaliacao: '',
