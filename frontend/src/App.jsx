@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const API_BASE = 'https://sistema-fisio-api.onrender.com';
+const API_BASE = 'https://fisio-teste.onrender.com';
 
 const INITIAL_AVALIACAO_PAYLOAD = {
   data_avaliacao: '',
